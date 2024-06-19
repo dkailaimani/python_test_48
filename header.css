@@ -1,0 +1,20 @@
+.header {
+  height: 400px; 
+  background-image: url('https://www.exasol.com/app/uploads/2023/12/thumbnail-what-is-a-relational-database-1024x585.webppath/to/your/background-image.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.header-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.header h1 {
+  font-size: 3rem;
+}
